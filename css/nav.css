@@ -1,0 +1,31 @@
+.navbar-brand-left{
+    font-size: 2.5rem;
+    font-weight:bold;
+    text-align: left;
+    padding-left: 20px;
+    color: #B7B7B7;
+    
+  }
+  .navbar-brand-right{
+    font-size: 1.5rem;
+    font-weight:lighter;
+    text-align: right;
+    color: #B7B7B7;
+  }
+  .nav_link:link {
+    color: #f9f9f9;
+    text-decoration:none;
+  }
+  .nav_link:visited {
+    color: #f9f9f9;
+    text-decoration:none;
+  }
+  .nav_link:active {
+    color: #f9f9f9;
+    text-decoration:none;
+  }
+  
+  .nav_link:hover {
+    color: #6B6B6B;
+    text-decoration:none;
+  }
